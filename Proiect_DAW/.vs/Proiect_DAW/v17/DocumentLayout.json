@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio\\Proiect_DAW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E64AEF4-3C4E-46AF-ACF4-00AEC5E9AAC6}|Proiect_DAW\\Proiect_DAW.csproj|d:\\visual studio\\proiect_daw\\proiect_daw\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E64AEF4-3C4E-46AF-ACF4-00AEC5E9AAC6}|Proiect_DAW\\Proiect_DAW.csproj|solutionrelative:proiect_daw\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E64AEF4-3C4E-46AF-ACF4-00AEC5E9AAC6}|Proiect_DAW\\Proiect_DAW.csproj|d:\\visual studio\\proiect_daw\\proiect_daw\\views\\home\\indexlogged.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E64AEF4-3C4E-46AF-ACF4-00AEC5E9AAC6}|Proiect_DAW\\Proiect_DAW.csproj|solutionrelative:proiect_daw\\views\\home\\indexlogged.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IndexLogged.cshtml",
+              "DocumentMoniker": "D:\\Visual Studio\\Proiect_DAW\\Proiect_DAW\\Views\\Home\\IndexLogged.cshtml",
+              "RelativeDocumentMoniker": "Proiect_DAW\\Views\\Home\\IndexLogged.cshtml",
+              "ToolTip": "D:\\Visual Studio\\Proiect_DAW\\Proiect_DAW\\Views\\Home\\IndexLogged.cshtml",
+              "RelativeToolTip": "Proiect_DAW\\Views\\Home\\IndexLogged.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T18:58:08.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\Proiect_DAW\\Proiect_DAW\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Proiect_DAW\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Visual Studio\\Proiect_DAW\\Proiect_DAW\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Proiect_DAW\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwC0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T18:57:37.82Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+html {
+    font-size: 14px;
+}
+
+body html {
+    padding: 0;
+    margin: 0;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    font-size: 14px;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    /*background-image: linear-gradient(#f1f2da,#39627b);*/
+    background: rgb(73,79,112);
+    background: linear-gradient(153deg, rgba(73,79,112,1) 40%, rgba(166,177,245,1) 88%);
+    color: aliceblue;
+    font-family: Montserrat;
+    /*background-color: #7e95ab;*/
+}
+
+a.nav-link {
+    color: aliceblue !important;
+}
+
+a.nav-link:hover {
+    color: #a6b1f5 !important;
+}
+
+button.nav-link {
+    color: aliceblue !important;
+}
+
+    button.nav-link:hover {
+        color: #a6b1f5 !important;
+    }
+
+.logoutbtn {
+    color: #2c2c2c !important;
+}
+
+.logoutbtn:hover {
+    color: #a6b1f5 !important;
+}
+
+.container {
+    width: 100%;
+}
+
+.card {
+    border: none !important;
+    border-radius: 5%;
+    width: 25%;
+    padding: .5rem;
+}
+
+#image_chart {
+    border-radius: 5%;
+}
+
+.card {
+    border: 1px solid aliceblue !important;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card-text {
+    text-align: center;
+}
+
+.card-project {
+    width: 100%;
+    border-radius: 0%;
+    background-color: #414663;
+}
+
+.card.card-project {
+    transition: 0.3s !important;
+}
+
+    .card.card-project:hover {
+        border: 1px solid #393D5C !important;
+    }
+
+.whitespace {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.hero {
+    color: aliceblue;
+    font-family: Montserrat;
+}
+
+.btn-primary {
+    background-color: #C7DFFF;
+    border: 1px solid #313740;
+    color: black;
+}
+
+.btn-primary:hover {
+    background-color: #80ABBF;
+    border: 1px solid #365F73;
+    color:aliceblue;
+    transition: 0.3s;
+}
+
+.navbar {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    background-color: #414663;
+    border: 2px solid #393D5C;
+}
+
+
+.container-fluid {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+a.navbar-brand {
+    text-align: left !important;
+    margin-left: 1rem !important;
+    margin-right: -15rem !important;
+    height: 50% !important;
+    color: aliceblue !important;
+    font-family: Montserrat !important;
+    font-weight: bold !important;
+}
+
+#logo {
+    width: 15%;
+    height: 15%;
+}
+
+#navbarSupportedContent {
+    margin-left: 2rem;
+}
+
+#navbarSupportedContent form {
+    margin-right: 40%;
+}
+
+#navbarSupportedContent * {
+    margin-right: 0.4rem;
+}
+
